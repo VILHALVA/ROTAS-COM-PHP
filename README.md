@@ -36,7 +36,7 @@
    - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
 
 ## NÃO SABE?
-- Entendemos que para manipular arquivos em `PHP`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns cursos gratuitos:
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
 * [CURSO DE MATERIALIZECSS](https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS)
